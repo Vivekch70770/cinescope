@@ -1,0 +1,2 @@
+-- Intentionally empty. Cinescope stores only real data you log yourself.
+-- Movie metadata is cached from TMDB the first time you log or save a film.
